@@ -1,0 +1,32 @@
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\openday.exe
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\openday.deps.json
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\openday.runtimeconfig.json
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\openday.runtimeconfig.dev.json
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\openday.dll
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\ref\openday.dll
+C:\Users\serbi\Downloads\openday\openday\openday\bin\Debug\net5.0\openday.pdb
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.csprojAssemblyReference.cache
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.AssemblyInfoInputs.cache
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.AssemblyInfo.cs
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.dll
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\ref\openday.dll
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.pdb
+C:\Users\serbi\Downloads\openday\openday\openday\obj\Debug\net5.0\openday.genruntimeconfig.cache
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\openday.exe
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\openday.deps.json
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\openday.runtimeconfig.json
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\openday.runtimeconfig.dev.json
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\openday.dll
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\ref\openday.dll
+C:\Users\serbi\School projects\openday\openday\openday\bin\Debug\net5.0\openday.pdb
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.csprojAssemblyReference.cache
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.AssemblyInfoInputs.cache
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.AssemblyInfo.cs
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.csproj.CoreCompileInputs.cache
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.dll
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\ref\openday.dll
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.pdb
+C:\Users\serbi\School projects\openday\openday\openday\obj\Debug\net5.0\openday.genruntimeconfig.cache
